@@ -1,0 +1,12 @@
+# Background picture
+image=~/Pictures/pyra-mythra.png
+scaling=fill
+
+# Colors
+ring-ver-color=0077ff
+
+# Detach from spwaning tty
+deamonize
+
+# Other options
+show-failed-attempts
